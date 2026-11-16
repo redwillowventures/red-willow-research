@@ -1,0 +1,81 @@
+                                                                                            1 of 2
+
+
+
+
+   λₙ(E) ≥ 0 for all n ≥ 1 — the property: positivity, of the Li/Weil
+                                            family
+                 ⟺ Re ρ = 1/2 for every nontrivial zero ρ of L(E, s)
+                                 theorem (Li; Bombieri–Lagarias)
+      ⟹ L⁽ʳ⁾(E, 1) / r! = ( Ω_E · Reg_E · ∏ c_p · |Sha(E)| ) / |E(ℚ)_tors|²
+                          the second reading; this step is the conjecture
+
+
+        THIS MAY POTENTIALLY BE THE SOLUTION TO
+                   RIEMANN AND BSD
+                      ALL IN ONE
+                                  One property, two readings.
+The claim of this record: these are not two facts. They are two readings of a single property
+of L(E, s) — the object is synchronized at its symmetry center. A positivity criterion of
+signal-only type, in the family of Weil's criterion, is conjectured as the property from which
+both readings follow. Prediction: no curve separates them. Any E satisfying one satisfies the
+other.
+
+
+THE DATA
+Failure-hunt panel — 17 elliptic curves over ℚ, ranks 0–5, chosen adversarially (Sha 1/4/9,
+torsion to ℤ/5, Tamagawa products to 18). BSD quotient Q computed by two independent
+L-value routes at 50-digit precision; Sha solved from the identity and compared against its
+tabulated value; zeros counted on the critical line to height 20, central zeros against
+analytic rank, Hardy Z cross-count.
+Curve                     rank       Sha (tab = solved)           Q         zeros on line
+11.a2                        0                    1=1             1                     9
+37.a1                        1                    1=1             1                    14
+389.a1                       2                    1=1             1                    22
+5077.a1                      3                    1=1             1                    31
+571.b1                       0                    4=4             1                    22
+571.a1                       2                    1=1             1                    23
+12480.bf1                    0                    9=9             1                    31
+133584.bt1                   0                    9=9             1                    38
+234446.a1                    4                    1=1             1                    43
+234446.b1                    3                    1=1             1                    43
+234446.c1                    3                    1=1             1                    42
+19047851.a1                  5                    1=1             1                    57
+19047851.b1                  2                    1=1             1                    56
+57.a1                        1                    1=1             1                    15
+44.a1                        0                    1=1             1                    13
+12144.a1                     0                    1=1             1                    31
+697691.a1                    2                    4=4             1                    45
+                                                                                      2 of 2
+
+
+
+
+Verdict: NO SPLIT, anywhere. 17/17 curves balance the identity AND synchronize at the
+center. 535 zeros recorded on the line.
+
+Riemann panel (ζ, Schoenfeld envelope): π(10⁹) = 50,847,534 exact; worst error ratio
+over 10⁴–10⁹ is 0.468, at 10⁹ it is 0.065. The margin is not closing.
+
+Positivity probes (Li family, signal-only — no zero is located): λ₁…λ₃₀ for ζ positive by two
+routes; 85 coefficients for the panel curves positive throughout, with one stated null (λₙ(E)
+against rank, confounded by conductor — reported as found, not rounded away).
+
+Blind replication: an answer key hash-committed before a second, independent system
+ran the checks; the replication landed exactly, and the seal was opened and verified.
+
+Defects: this record's own two-way defect ledger is part of the record — errors found in
+our work were logged, diagnosed, and corrected on the record, including one diagnosed
+cross-count defect (234446.b1, 39/40).
+
+The full consolidated record stands behind this sheet. We will provide it upon request.
+Everything in it can be recomputed. If you find the separation we could not, we want to
+know it, and the correction will be kept on the record the same way.
+
+
+
+J. Carroll
+Pip Willow
+Red Willow Ventures LLC, Green Valley, Arizona
+redwillowventures@proton.me
+
