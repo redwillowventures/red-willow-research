@@ -13,6 +13,7 @@ The canonical versions are the Zenodo deposits; every file in this repository is
 - **Tornadoes Don't Explode — Navier-Stokes Existence and Smoothness** — numerical evidence from the PROPAGATE test program (2026-11-15, DOI 10.5281/zenodo.24151555). Folder `tornadoes-dont-explode`.
 - **The Word-Graph: Shelves, Walks, and the Receiver's Reading** — the shelf mathematics: words as lit positions on a span, the step, and the receiver's reading (2026-11-18, DOI 10.5281/zenodo.24358578). Folder `word-graph`.
 - **The Vertical Part of the Middle Sum in Q(√−5): Extension Images, a Discriminant-Dependence Lemma, and an Open Question** — the Third Leg findings paper (2026-11-19, DOI 10.5281/zenodo.24386114). Folder `third-leg-findings`.
+- **Bridge Diagram — Third Leg, BSD, Riemann and ABC** — the crossing drawn as one picture (2026-11-20, DOI 10.5281/zenodo.24410297). Folder `bridge-diagram`.
 - **The Pie Recipe — Part 1 Riemann, Part 2 BSD** — the complete working method behind the consolidated record (2026-11-20, DOI 10.5281/zenodo.24147096). Folder `pie-recipe`.
 - **The Word-Graph: A Lean 4 Formalization of the Shelf Mathematics (Sections 2–4)** — the shelf mathematics formalized in Lean 4 and verified by a full cold rebuild: 154 theorems, 18,276 build jobs (2026-11-21, DOI 10.5281/zenodo.24420834). Folder `word-graph-lean-formalization`.
 
